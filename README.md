@@ -10,5 +10,6 @@ Creating a Java program that acts as a basic calculator. so  the user can
 enter two numbers and choose an operation (addition, subtraction, multiplication,
 division). Then, it should perform the selected operation and display the result to the
 user.
+**output:**
 
-[calculator](https://github.com/user-attachments/assets/c34d0882-db81-42ad-84f8-7e303cfe5e28)
+![calculator](https://github.com/user-attachments/assets/24f58643-f870-4c55-8351-618b21fc39cd)

@@ -8,6 +8,8 @@ Domain:Java Programming
 
 Duration:july to august 2024
 
+Mentor:Muzammil Ahmed
+
 **OverView of The Project**
 **Title**: Simple Calculator
 Creating a Java program that acts as a basic calculator. so  the user can
